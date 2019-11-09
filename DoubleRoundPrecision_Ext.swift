@@ -1,3 +1,10 @@
+//
+//  DoubleRoundPrecision_Ext.swift
+//
+//  Created by Afonso H Sabino on 08/11/19.
+//  Copyright © 2019 App Brewery. All rights reserved.
+//
+
 import Foundation
 
 extension Double {
